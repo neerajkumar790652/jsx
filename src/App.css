@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App P{
+  width: 75%;
+  font-size: 20px;
+  margin: auto;
+  padding-bottom:15px ;
+  color: grey;
+  font-weight: 400;
+}
+.App h1{
+  margin-bottom: 50px;
+}
